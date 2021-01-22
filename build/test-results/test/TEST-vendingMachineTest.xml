@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="vendingMachineTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-01-22T20:23:47" hostname="LTUS76204" time="0.017">
+  <properties/>
+  <testcase name="testCheckandReturnBalance" classname="vendingMachineTest" time="0.003"/>
+  <testcase name="testPurchaseItem" classname="vendingMachineTest" time="0.001"/>
+  <testcase name="testNonExistingItemCodePurchase" classname="vendingMachineTest" time="0.0"/>
+  <testcase name="testDepositBalance" classname="vendingMachineTest" time="0.0"/>
+  <testcase name="testInsufficientFunds" classname="vendingMachineTest" time="0.0"/>
+  <testcase name="testEmptyVendingMachine" classname="vendingMachineTest" time="0.001"/>
+  <testcase name="checkInsertedAmount" classname="vendingMachineTest" time="0.003"/>
+  <testcase name="successfulPurchaseReturnsChange" classname="vendingMachineTest" time="0.0"/>
+  <testcase name="testWithdrawBalance" classname="vendingMachineTest" time="0.001"/>
+  <testcase name="insertedMoneyCancelandRedund" classname="vendingMachineTest" time="0.0"/>
+  <testcase name="checkStockItems" classname="vendingMachineTest" time="0.0"/>
+  <testcase name="testAddItemstoVendingMachine" classname="vendingMachineTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
